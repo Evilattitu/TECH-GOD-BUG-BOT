@@ -10,15 +10,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "910000000000"
-global.ownername = "🐛Tech God"
-global.ytname = "YT: Tech-God"
+global.ownernomer = "+2347066939379"
+global.ownername = "DETECTIVE"
+global.ytname = "YT: EVIl- ATTITUDE"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '+2347066939379'  //creator number
+global.ownername = 'DETECTIVE' //owner name
+global.botname = 'EVIL- ATTITUDE' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
